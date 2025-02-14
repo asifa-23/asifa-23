@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asifa</h1>
-<h3 align="center">Data analyst begginner</h3>
+<h2 align="center">Open Source begginner</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifa-23&label=Profile%20views&color=0e75b6&style=flat" alt="asifa-23" /> </p>
 
 - 📫 How to reach me **asifabegum.d@gmail.com**
 
