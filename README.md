@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 
-- 📫 How to reach me **asifabegum.d@gmail.com**
+- How to reach me:
+- Mail id: **asifabegum.d@gmail.com**
+- Linkedin: **https://www.linkedin.com/in/asifa-begum23/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
